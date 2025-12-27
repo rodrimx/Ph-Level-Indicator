@@ -15,4 +15,4 @@ if (ph > 7) {
     console.log ("Neutral")
 }
 
-//Output should be either acidic, basic, or neutral depending on the value given to the ph level at the start of the code.
+//Output should be either acidic, basic, or neutral, depending on the value given to the ph level at the start of the code.
